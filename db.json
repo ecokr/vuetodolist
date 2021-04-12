@@ -1,0 +1,80 @@
+{
+  "todos": [
+    {
+      "id": "todo-0",
+      "title": "Svelte",
+      "endDate": "2021-03-05T20:38:00.000Z",
+      "memo": "메모입니다.\n",
+      "completed": false,
+      "important": "4"
+    },
+    {
+      "id": "todo-1",
+      "title": "Vue",
+      "endDate": "2021-03-10T20:39:00.000Z",
+      "memo": "공부중test\n",
+      "completed": true,
+      "important": "3"
+    },
+    {
+      "id": "todo-2",
+      "title": "React",
+      "endDate": "2021-04-20T20:46:00.000Z",
+      "memo": "시작도 못함\ntest'",
+      "completed": true,
+      "important": "5"
+    },
+    {
+      "id": "todo-3",
+      "title": "운동",
+      "endDate": "2021-03-02T12:04:00.000Z",
+      "memo": "",
+      "completed": true,
+      "important": "1"
+    },
+    {
+      "id": "todo-1616933113500",
+      "title": "공부",
+      "endDate": "",
+      "memo": "",
+      "completed": false,
+      "important": "4"
+    },
+    {
+      "id": "todo-1616933129460",
+      "title": "알고리즘",
+      "endDate": "",
+      "memo": "",
+      "completed": true,
+      "important": "1"
+    },
+    {
+      "id": "todo-1617180834620",
+      "title": "test'",
+      "endDate": "",
+      "memo": "",
+      "completed": true,
+      "important": "4"
+    },
+    {
+      "id": "todo-1617180847848",
+      "title": "test",
+      "endDate": "",
+      "memo": "",
+      "completed": true,
+      "important": "5"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Lee",
+      "role": "developer"
+    },
+    {
+      "id": 2,
+      "name": "Kim",
+      "role": "designer"
+    }
+  ]
+}
